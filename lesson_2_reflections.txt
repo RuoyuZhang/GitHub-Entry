@@ -8,3 +8,8 @@ What value do you think it offers?
 
 	It's like a buffer region between working directory and the repository
 	It gives an opportunity to put files together then make only one commit
+
+How can you use the staging area to make sure you have one commit per logical 
+change?
+
+	compare the files in the staging area and the ones in previous commit
