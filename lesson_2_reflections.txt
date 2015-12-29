@@ -19,3 +19,6 @@ organized? How would branches help?
 
 	when you want to creat a paralle version of a project
 
+How do the diagrams help you visualize the branch structure?
+
+	It shows the structure of all the commits
