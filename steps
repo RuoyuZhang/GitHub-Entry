@@ -1,3 +1,15 @@
+##Create repository
+git init
+
+##add changes(files) to the repo
+git add files
+git commit
+
+
+####connect Git with GitHub####
+
+Create repo on GitHub
+
 #reference local repository to a GitHub one
 git remote add origin urls
 
