@@ -17,8 +17,8 @@ git remote -v
 #add collaborator
 go to setting, choose collaborators, add the users
 
-######
-#get the updates from GitHub to local
+###### get the updates from GitHub to local ######
+
 #update all the local copies of every branch for the origin remote
 git fetch origin
 
@@ -32,6 +32,22 @@ git commit
 git pull origin master (same as git fetch then git merge)
 
 ######
+
+###### Make a pull request ######
+#Creat a new branch
+git branch branchName
+git checkout branchName
+
+#Make a commit to the branch
+git add modifiedFile
+git commit
+
+#Push the changes to the fork
+git push origin branchname
+
+#Create a pull request from the new branch into master(your own repo)
+
+
 
 
 
