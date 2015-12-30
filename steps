@@ -1,6 +1,21 @@
 #reference local repository to a GitHub one
 git remote add origin urls
+
 #push local repo to GitHub
 git push origin branchname(master)
+
 #pull GitHub repo to local 
 git pull origin master
+
+#fork on GitHub
+Go to the repo you want to fork, and click on fork
+
+#clone forks to local (you don't need to remote)
+git clone urls (the urls on your own account)
+git remote -v
+
+#add collaborator
+go to setting, choose collaborators, add the users
+
+
+
