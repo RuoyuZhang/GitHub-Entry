@@ -22,3 +22,9 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
 
 	It shows the structure of all the commits
+
+What is the result of merging two branches together? Why do we represent it in 
+the diagram the way we do?
+
+	Features of two branches are merged together. The diagram can help us know 
+	the parental relationship among changes.
