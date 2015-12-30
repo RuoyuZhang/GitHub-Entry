@@ -1,0 +1,6 @@
+#reference local repository to a GitHub one
+git remote add origin urls
+#push local repo to GitHub
+git push origin branchname(master)
+#pull GitHub repo to local 
+git pull origin master
