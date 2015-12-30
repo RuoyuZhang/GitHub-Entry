@@ -17,5 +17,21 @@ git remote -v
 #add collaborator
 go to setting, choose collaborators, add the users
 
+######
+#get the updates from GitHub to local
+#update all the local copies of every branch for the origin remote
+git fetch origin
+
+git merge master origin/master 
+#resovle potential conflicts
+editing files
+git add (changed files)
+git commit
+
+#alternatively 
+git pull origin master (same as git fetch then git merge)
+
+######
+
 
 
