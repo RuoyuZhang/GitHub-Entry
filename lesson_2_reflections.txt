@@ -28,3 +28,9 @@ the diagram the way we do?
 
 	Features of two branches are merged together. The diagram can help us know 
 	the parental relationship among changes.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges 
+manually?
+
+	pros: easy
+	cons: can not always guess right
